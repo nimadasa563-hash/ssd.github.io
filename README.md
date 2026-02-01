@@ -64,7 +64,7 @@
       <p>Hello! I’m Sathsilu Dasanayaka, </p>    </section>
 
     <section>
-      <h2>Portfolio</h2>
+      <h2>Portfolo</h2>
       <p>Here are some of my projects:</p>
       <ul>
         <li><a href="#">Project 1 – Portfolio Website</a></li>
