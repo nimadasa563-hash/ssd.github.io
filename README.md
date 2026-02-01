@@ -84,6 +84,8 @@
       <h2> About </h2>
       <ul>
          <li>On ne peut pas échouer..❗</li>
+      </ul>
+    </section>
   </main>
 
   <footer>
