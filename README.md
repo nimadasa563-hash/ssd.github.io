@@ -79,6 +79,11 @@
       <p>LinkedIn: <a href="#">linkedin.com/in/johndoe</a></p>
       <p>GitHub: <a href="#">github.com/johndoe</a></p>
     </section>
+
+    <section>
+      <h2> About </h2>
+      <ul>
+         <li>On ne peut pas échouer..❗</li>
   </main>
 
   <footer>
