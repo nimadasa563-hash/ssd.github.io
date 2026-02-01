@@ -81,9 +81,9 @@
     </section>
 
     <section>
-      <h2> About </h2>
+      <h2>About</h2>
       <ul>
-         <li>On ne peut pas échouer..❗</li>
+         <li>On ne peut pas échouer..</li>
       </ul>
     </section>
   </main>
